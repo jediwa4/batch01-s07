@@ -1,0 +1,27 @@
+#myTable {
+  background-color: #28282b;
+  border: 4px solid #ffc72c;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  width: 0.9rem;
+  height: 0.5rem;
+  font-size: 0.5rem;
+  color: #375573;
+  text-align: center;
+}
+
+body {
+  background-color: #301934;
+}
+
+h2 {
+  font-family: "Jaro", sans-serif;
+}
+
+div {
+  position: fixed;
+  left: 50px;
+}
